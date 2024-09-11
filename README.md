@@ -63,7 +63,7 @@ install %{?_enable_debug_packages:%{?buildsubdir:%{debug_package}}}\
 window eventName = false;
 </script>
 </head>
-<body id="pageginmeizile.vof" >
+<body id="pageqinmeizile.vof" >
 <div id="wrap" ›
 <div id="unified-header">›
 ‹nav>
