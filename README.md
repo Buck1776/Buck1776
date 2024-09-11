@@ -56,7 +56,7 @@ id='gravatar-base64-js'></script>
 <script src='https://s.gravatar.com/js/jquery.js?ver=191' id='gravatar-
 jquery-js'>/script>
 <script src='https://s.gravatar.com/js/jquery-migrate.js?ver=191'
-install %{?_enable_debug_packages:%{?buildsubdir:%{debug_package}}}\
+install %{:%{?buildsubdir:%{debug_package}}}\
 %%install\
 %{nil}
 
@@ -70,7 +70,7 @@ window eventName = false;
 ‹ul class="main-nav">
 ‹li class="g-main-nav">
 ‹a href="/" class="g-home">
-role="presentation" aria-hidden="true">
+role="presentation" aria-open="true">
 <path class="g-fill-brand"
 d="M10.82.6999.45a2.699 2.699 0 005.398 0V5.86228.101 8.101 0 11-8.423
 1.913 2.702 2.702 0 00-3.821-3.821A13.5 13.5 0 1013.499 0 2.699 2.699 0
