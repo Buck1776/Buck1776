@@ -56,7 +56,9 @@ id='gravatar-base64-js'></script>
 <script src='https://s.gravatar.com/js/jquery.js?ver=191' id='gravatar-
 jquery-js'>/script>
 <script src='https://s.gravatar.com/js/jquery-migrate.js?ver=191'
-
+install %{?_enable_debug_packages:%{?buildsubdir:%{debug_package}}}\
+%%install\
+%{nil}
 
 window eventName = false;
 </script>
