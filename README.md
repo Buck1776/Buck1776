@@ -137,3 +137,31 @@ spath d="M46.109 24.13802.246 0
 4.349-2.276h3.1392.4226.805 6.805 0 01-1.987 1.545.207 5.207 0 01-2.448.62zm11.858 2.16c.365 0 . 677-.124.936-.374.26-.25.389-.557.389-
 .922v-8.75525.837 5.837 0 011.93-1.857 4.912 4.912 0 012.534-ssh -A serverA 'bash -s' < deploy.sh
 
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"> <head>
+<title>Gravatar - Globally Recognized Avatars</title>
+<link rel="shortcut icon" href="/favicon.ico" />
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Language" content="en" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link
+href='https://s.gravatar.com/dist/css/style.min.css?ver=191' media='all' />
+<link rel='stylesheet' id='gravatar-noticons-css' href='//s0.wp.com/i/noticons/noticons.css?ver=191' media='all' />
+<link rel='stylesheet' id='gravatar-carousel-css' href='https://s.gravatar.com/js/jcarousel/lib/jquery.jcarousel.css?ver=19 1' media='all' />
+<link rel='stylesheet' id='gravatar-carousel-skin-css' href='https://s.gravatar.com/js/jcarousel/skins/tango/skin.css?ver=191' media='all' />
+<link rel='stylesheet' id='gravatar-profile-css' href='https://s.gravatar.com/dist/css/profile.min.css?ver=191' media='all' />
+<link rel='stylesheet' id='gravatar-font-base-css' href='https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;500&# 038;family=Varela+Round&#038;display=swap' media='all' />
+<link rel='stylesheet' id='gravatar-font-css' href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400ital ic,600italic,400,300,600&#038;subset=latin' media='all' />
+<style id='gravatar-automatticon-inline-css' nonce='dfb77e38198b'>
+@font-face {
+font-family: 'Automatticons';
+src: url('https://s.gravatar.com/fonts/automatticons-
+regular-webfont.eot');
+src: url('https://s.gravatar.com/fonts/automatticons-
+regular-webfont.eot?#iefix') format('embedded-opentype'), url('https://s.gravatar.com/fonts/automatticons-regular-webfont.woff') format('woff'), url('https://s.gravatar.com/fonts/automatticons-regular- webfont.ttf') format('truetype'), url('https://s.gravatar.com/fonts/automatticons-regular- webfont.svg#automatticonsregular') format('svg');
+font-weight: normal;
+font-style: normal; -webkit-font-smoothing: antialiased;
+} </style>
+<script src='https://s.gravatar.com/js/webtoolkit.base64.js?ver=191' id='gravatar-base64-js'></script>
+<script src='https://s.gravatar.com/js/jquery.js?ver=191' id='gravatar- jquery-js'></script>
+<script src='https://s.gravatar.com/js/jquery-migrate.js?ver=191' id='gravatar-jquery-migrate-js'></script>
